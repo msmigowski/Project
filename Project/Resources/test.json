@@ -1,0 +1,408 @@
+{
+	"MONDAY":
+
+		[{
+		"TITLE": "TEST DRIVEN DEVELOPMENT",
+		"SPEAKER": "JASON SHAPIRO",
+		"TIME": "9:00 AM",
+		"ROOM": "MATISSE",
+		"DETAILS": "EXPLORE THE TOPICS AND TOOLS RELATED TO TEST DRIVEN DEVELOPMENT."
+	}, {
+		"TITLE": "JAVA TOOLS",
+		"SPEAKER": "JIM WHITE",
+		"TIME": "9:00 AM",
+		"ROOM": "ROTHKO",
+		"DETAILS": "DISCUSS THE LATEST SET OF TOOLS USED TO HELP EASE SOFTWARE DEVELOPMENT."
+	}],
+
+	"TUESDAY": [{
+			"TITLE": "MONGODB",
+			"SPEAKER": "DAVINMICKELSON",
+			"TIME": "1: 00PM",
+			"ROOM": "PICASSO",
+			"DETAILS": "LEARNABOUT\"NOSQL\"DATABASES."
+		},
+
+		{
+			"TITLE": "DEBUGGINGWITHXCODE",
+			"SPEAKER": "JASONSHAPIRO",
+			"TIME": "1: 00PM",
+			"ROOM": "VANGOGH",
+			"DETAILS": "EXPLOREDIFFERENTPATTERNSFORDEBUGGINGYOURIOSAPPS."
+		}
+	],
+
+	"Cranberry  Cooler": [{
+		"TITLE": "Cranberry Cooler",
+		"DETAILS": "Ingredients: 2 parts Cranberry Juice 0.5 part DeKuyper® Triple Sec Liqueur 1.5 parts Jim Beam® Bourbon 2 parts Fresh Lemon Sour Lemon Wedge Preparation Build ingredients in order listed over ice in a tall highball glass. Garnishwith a lemon wedge."
+	}],
+
+	"Tennessee Mule": [{
+		"TITLE": "Tennessee Mule",
+		"DETAILS": "Ingredients: 1 part Jack Daniel’s® Old No. 7 1 Squeeze of fresh lime juice 3 parts ginger beer Preparation: Stir & serve over ice, garnish with a mint sprig."
+	}],
+
+	"Jack and Cola": [{
+		"TITLE": "Jack and Cola",
+		"DETAILS": "Ingredients: 1 part Jack Daniel’s Old No. 7 3 parts Cola Preparation: Serve over ice in tall glass, garnish with slice of lime."
+	}],
+
+	"Whiskey Sling": [{
+		"TITLE": "Whiskey Sling",
+		"DETAILS": "Ingredients: 4 Parts Gentleman Jack 1 part lemon juice 1 ½ part simple syrup 2 dashes orange bitters Preparation: Shake all ingredients with ice. Then strain into an ice-filled glass. Garnish with a lemon."
+	}],
+
+	"Single Barrel Old Fashioned": [{
+		"TITLE": "Single Barrel Old Fashioned",
+		"DETAILS": "Ingredients: 2 parts Jack Daniel’s Single Barrel ¾ parts simple syrup orange slice couple dashes of bitters Preparation Put into rocks glass. Muddle orange. Add ice and stir"
+	}],
+
+	"Vieux Carre": [{
+		"TITLE": "Vieux Carre",
+		"DETAILS": "Ingredients: ¾ parts Jack Daniel’s® Single Barrel Rye ¾ parts cognac ¾ Noilly Prat Rouge® vermouth ¼ tsp. Bénédictine 2 dashes Peychaud’s® Bitters 2 dashes Angostura® Bitters Preparation: Add all the ingredients to a rocks glass. Fill with ice and stir."
+	}],
+
+	"Devil Went Down To Georgia": [{
+		"TITLE": "Devil Went Down To Georgia",
+		"DETAILS": "Ingredients: 1 part DeKuyper® Peachtree® Schnapps Liqueur 3 parts Iced Tea 2 parts Jim Beam® Devil’s Cut® Bourbon Lemon Wedge Preparation: Build cocktail over ice in a tall highball glass. Garnish with a lemon wedge on the rim"
+	}],
+
+	"Ghost Punch": [{
+		"TITLE": "Ghost Punch",
+		"DETAILS": "Ingredients:1 part Jacob’s Ghost® Whiskey 2 parts Ginger Ale 1 part Cranberry Juice Preparation: Build in order, over ice in a tall highball glass. Garnish with lemon."
+	}],
+
+	"Kentucky Sunrise": [{
+		"TITLE": "Kentucky Sunrise",
+		"DETAILS": "Ingredients: 0.5 part Grenadine 1 part Jim Beam® Bourbon 3 parts Orange Juice Orange Slice or a Cherry Preparation: Build in order over ice in a tall highball glass. Float the grenadine. Garnish with an orange slice or a cherry"
+	}],
+
+	"Dancing With The Devil": [{
+		"TITLE": "Dancing With The Devil",
+		"DETAILS": "Ingredients: 1 part DeKuyper® Triple Sec Liqueur 2 parts Jim Beam® Devil’s Cut® Bourbon 1 part Fresh Lemon Sour 1 part Passion Fruit Juice 2 dashes Tabasco® Sauce Cherry Preparation: Shake with ice. Strain into a chilled cocktail glass. Garnish with a cherry."
+	}],
+
+	"Salty Ghost": [{
+		"TITLE": "Salty Ghost",
+		"DETAILS": "Ingredients: 1 part Jacob’s Ghost® Whiskey 3 parts Grapefruit Juice Preparation: Build over ice in a salt-rimmed highball glass."
+	}],
+
+	"Fire Drop": [{
+		"TITLE": "Fire Drop",
+		"DETAILS": "Ingredients: 2 parts Jim Beam® Kentucky Fire™ Bourbon infused with Cinnamon Liqueur 1 part DeKuyper Triple Sec 2 parts Fresh Lemon Sour Sugar (optional) Preparation: Shake all ingredients with ice in a chilled cocktail glass with optional sugared rim."
+	}],
+
+	"Red Stag and Cola": [{
+		"TITLE": "Red Stag and Cola",
+		"DETAILS": "Ingredients: 3 parts Cola 1 part Red Stag by Jim Beam® Bourbon infused with Natural Flavors Lime Wedge Preparation: Combine ingredients in mixing tin and shake vigorously. Pour over ice in a glass. Garnish with lime wedge."
+	}],
+
+	"Devil In The Morning": [{
+		"TITLE": "Devil In The Morning",
+		"DETAILS": "Ingredients: 1 splash Grenadine 1 part JDK & Sons™ O3 Premium Orange Liqueur 2 parts Jim Beam® Devil’s Cut® Bourbon 3 parts Fresh Orange Juice Half Moon Orange Slice and/or Cherry Preparation: Build in order over ice in a tall glass, letting the grenadine slowly settle through the cocktail. Garnish with a half-moon Orange Slice and/or a Cherry."
+	}],
+
+	"Watermelon Julep": [{
+		"TITLE": "Watermelon Julep",
+		"DETAILS": "Ingredients: 2 parts Jim Beam® Rye Whiskey 9 Mint Leaves 1 part Simple Syrup 4 cubes Fresh Watermelon (1' cubes) Melon Balls and a Mint Sprig Preparation: In a double old fashioned glass, muddle the mint with the simple syrup. Add the watermelon and muddle again. Add crushed ice and rye whiskey. Stir to distribute mint. Top with crushed ice. Garnish with melon balls and a mint sprig."
+	}],
+
+	"Devil's Drop": [{
+		"TITLE": "Devil's Drop",
+		"DETAILS": "Ingredients: 2 parts Jim Beam® Devil’s Cut® Bourbon 2 parts Fresh Lemon Sour 0.5 part Limoncello 5 Fresh Spearmint Leaves Lemon Wheel Preparation: Shake all ingredients with ice until well blended. Strain into a chilled cocktail glass with an optional sugared rim. Garnish with a lemon wheel on the rim"
+	}],
+
+	"Old 97": [{
+		"TITLE": "Old 97",
+		"DETAILS": "Ingredients: 2 parts Jim Beam® Bonded Bourbon 1 part Rich Demerara Syrup (simple syrup) 1 part cherry maraschino liqueur 2 dashes of Angostura® Bitters Orange peel for garnish Preparation: Stir ingredients over ice. Strain over fresh ice and garnish, making sure to express the oils of the peel"
+	}],
+
+	"Bloody Ghost": [{
+		"TITLE": "Bloody Ghost",
+		"DETAILS": "Ingredients: 2 parts Jacob’s Ghost® Whiskey 3 parts Tomato JuicePinch salt Pinch sugar Tabasco (to taste) Fresh lime Celery Olive Preparation: Shake all ingredients with ice. Strain in a chilled highball glass. Garnish with a lime wheel or olive, & fresh celery."
+	}],
+
+	"Black Manhattan": [{
+		"TITLE": "Black Manhattan",
+		"DETAILS": "Ingredients: 3 dashes Angostura® Bitters 2.5 parts Jim Beam Black® Bourbon 0.75 parts Sweet Vermouth Cherry Preparation: Combine ingredients in 3 piece shaker. Shake vigorously to chill. Strain into chilled martini glass. Garnish with a cherry."
+	}],
+
+	"Orchard Twist": [{
+		"TITLE": "Orchard Twist",
+		"DETAILS": "Ingredients: 1 part Jim Beam® Apple, Apple Liqueur with Bourbon 1 part Cranberry Juice A splash of Club Soda Lime Wedge Preparation: Build over ice in a tall highball glass. Garnish with a lime wedge."
+	}],
+
+	"Cherry Brass Buck": [{
+		"TITLE": "Cherry Brass Buck",
+		"DETAILS": "Ingredients: 3 parts Ginger Ale 1 part Red Stag by Jim Beam® Bourbon infused with Natural Flavors Lime Preparation: Build over ice in a tall highball glass. Garnish with lime wedge."
+	}],
+
+	"Cut and Cola": [{
+		"TITLE": "Cut and Cola",
+		"DETAILS": "Ingredients: 3 parts Cola 1 part Jim Beam® Devil’s Cut® Bourbon Lime twist Preparation: Build over ice in a tall highball glass. Garnish with a lime twist."
+	}],
+
+	"Kentucky Fire On Ice": [{
+		"TITLE": "Kentucky Fire On Ice",
+		"DETAILS": "Ingredients: Ice 1 part Jim Beam® Kentucky Fire™ Bourbon infused with Cinnamon Liqueur Preparation: Place ice in a double old fashioned glass and add Jim Beam® Kentucky Fire"
+	}],
+
+	"Kentucky Sweet Tea": [{
+		"TITLE": "Kentucky Sweet Tea",
+		"DETAILS": "Ingredients: 1 part DeKuyper® Peachtree® Schnapps Liqueur 2 parts Jim Beam® Bourbon 3 parts Sweet Tea Lemon Wedge: Preparation: Build over ice in a tall highball glass. Garnish with a lemon wedge."
+	}],
+
+	"Ghost Driver": [{
+		"TITLE": "Ghost Driver",
+		"DETAILS": "Ingredients: 1 part DeKuyper® Peachtree® Schnapps Liqueur 2 parts Jim Beam® Bourbon 3 parts Sweet Tea Lemon Wedge Preparation: Build over ice in a tall highball glass. Garnish with a lemon wedge."
+	}],
+
+	"Air Mail": [{
+		"TITLE": "Air Mail",
+		"DETAILS": "Ingredient: 2 parts: Gold rum 1/2 part freshly squeezed lime juice 1 tsp honey To fill: Champagne Preparation: Pour the Gold rum, lime juice and honey into a mixing glass and then add some ice cubes. Next give the mix a good stir and fine strain into a chilled glass. Finally top the glass with up champagne and garnish with a stamp."
+	}],
+
+	"Anejo Highball": [{
+		"TITLE": "Anejo Highball",
+		"DETAILS": "Ingredient: 1 1/2 parts 8 Age 1/2 part Orange Curaçao 1/2 part freshly squeezed lime juice 2 dashes Angostura® bitters 2 parts ginger beer Preparation: Fill a tall glass with ice cubes and then pour in the 8 Años, lime juice, Curaçao and bitters. Next, add two parts of ginger beer and give the mixture a good stir. Garnish with a wedge of orange."
+	}],
+
+	"Batiste Rum": [{
+		"TITLE": "Batiste Rum",
+		"DETAILS": "Ingredient: 2 parts  Superior rum 1 part Grand Marnier® 4 drops Angostura® bitters Preparation: Pour the  Superior rum and Grand Marnier® into a cocktail shaker, half-filled with ice cubes. Fill the other half with crushed ice and give it a good, hard shake until the mix is frozen. Fine strain the mixture into a chilled or frozen. Finish off by carefully adding the bitters."
+	}],
+
+	"Bee's Kiss": [{
+		"TITLE": "Bee's Kiss",
+		"DETAILS": "Ingredient: 2 parts BACARDÍ Superior rum 2/5 part fresh cream 2/5 part honey Preparation: Pour the ingredients into a cocktail shaker filled with ice cubes and crushed ice. Give it a good, hard shake until the cocktail shaker is cold. Fine strain the mixture into a chilled glass."
+	}],
+
+	"Pinacolada": [{
+		"TITLE": "Pinacolada",
+		"DETAILS": "Ingredient: 2 parts BACARDÍ Superior rum 1 1/2 parts fresh coconut water 1 part fresh pineapple juice 3-4 chunks of fresh pineapple 2 tsp caster sugar Slice of pineapple and pineapple leaf Method: Place the pineapple chunks into a cocktail shaker and crush them lightly (using a muddler or bar spoon). Then pour in the pineapple juice and coconut water and stir it all up to dissolve the sugar before pouring in the BACARDÍ Superior rum. Fill the shaker with ice cubes and shake until it’s frosted. Next pour the mix into a tall glass over crushed ice. Garnish with a pineapple slice and leaf."
+	}],
+
+	"Between The Sheets": [{
+		"TITLE": "Between The Sheets",
+		"DETAILS": "Ingredient: 1 part BACARDÍ Superior rum 1 part Cognac 1 part triple sec 1 part freshly squeezed lemon juice 1/5 part sugar syrup Method: Pour all the ingredients into a cocktail shaker and add some ice cubes. Then give it all quick and vigorous shake. Fine strain the mixture into a chilled glass."
+	}],
+
+	"Century Club Punch": [{
+		"TITLE": "Century Club Punch",
+		"DETAILS": "Ingredient: 1 3/5 parts BACARDÍ Gold rum 4/5 parts BACARDÍ Superior rum 1 part freshly squeezed lemon juice 3 heaped tsp of fine white sugar (caster sugar) 2 to 4 parts water Method: Pour all the ingredients into a cocktail shaker, add some ice cubes and give it all a good, hard shake. Fine strain the mixture into a glass full of shaved or crushed ice. Garnish with 4 pineapple slices cut into triangles."
+	}],
+
+	"Commodore": [{
+		"TITLE": "Commodore",
+		"DETAILS": "Ingredient: 2 parts BACARDÍ Superior rum 1 part freshly squeezed lemon juice 2/5 part pomegranate grenadine syrup 2/5 part raspberry syrup 1 1/2 tsp fine white sugar (caster sugar) 1 fresh egg white 3 raspberries Method: Pour the ingredients into a cocktail shaker filled with ice cubes and crushed ice. Then give it all a good, hard shake until the cocktail shaker is cold. Fine strain the mixture into a chilled glass."
+	}],
+
+	"Boadas": [{
+		"TITLE": "Boadas",
+		"DETAILS": "Ingredient: 1 1/2 parts BACARDÍ Superior rum 4/5 part Orange Curaçao 4/5 part Dubonnet Red Method: Pour all the ingredients into a mixing glass filled with ice cubes. Covering the top of the mixing glass with a hawthorn strainer, pour the liquid into another ice-filled mixing glass from a good height. Repeat the process of ‘throwing’ the drink from one glass to another until it is cold. Then strain the drink into a serving glass and garnish with a fresh twist of orange."
+	}],
+
+	"Daiquiri": [{
+		"TITLE": "Daiquiri",
+		"DETAILS": "Ingredient: 2 parts BACARDÍ Superior rum 1 part freshly squeezed lime juice 2 tsp sugar Method: Place sugar and freshly pressed lime juice into a cocktail shaker and stir until the sugar has dissolved. Then pour in the BACARDÍ Superior rum and fill the shaker with half cubed ice, followed by half crushed ice. Place the lid on the shaker and shake vigorously until thoroughly chilled. Finally, strain through a fine tea strainer into a chilled coupette (or cocktail glass)."
+	}],
+
+	"Cuba Libre": [{
+		"TITLE": "Cuba Libre",
+		"DETAILS": "Ingredient: 1 part BACARDÍ Gold rum 2 parts cola (bottled) 2 lime wedges Method: To build this legendary cocktail, fill a highball glass with ice. Then squeeze 2 lime wedges over the ice and drop them into the glass. Pour in the BACARDÍ Gold rum, followed by chilled cola and give it all a gentle stir."
+	}],
+
+	"Cuban Caress": [{
+		"TITLE": "Cuba Libre",
+		"DETAILS": "Ingredient: 2 parts BACARDÍ Superior rum 2 parts freshly squeezed pineapple juice 12 drops Maraschino liqueur 2/5 part pomegranate grenadine syrup Method: Pour all the ingredients into a mixing glass and add some ice cubes. Give it all a good stir using a mixing spoon. Then serve by fine straining into a chilled glass filled with crushed ice."
+	}],
+
+	"Espresso de San Juan": [{
+		"TITLE": "Espresso de San Juan",
+		"DETAILS": "Ingredient: 1 1/2 parts BACARDÍ Superior rum 1 part dark chocolate 1 part strong espresso coffee Pinch of chilli flakes 3/4 part fine white sugar (caster sugar) Method: Heat all the ingredients in a pan and stir until they reach boiling point. Then just leave it to cool down for a few minutes before pouring it into a cup or mug. Garnish with coffee beans, chocolate shavings and chilli flakes for a spicy kick."
+	}],
+
+	"El Presidente": [{
+		"TITLE": "El Presidente",
+		"DETAILS": "Ingredient: 2 parts BACARDÍ Gold rum 1 parts MARTINI® Rosso vermouth 1 dash of Angostura® bitters Preserved cherry or orange peel twist Method: Place some ice cubes into a mixing glass and add a dash of bitters. Next pour in the rest of the ingredients and stir for at least 2 minutes. Fine strain the mix into a chilled cocktail glass. Garnish with a maraschino cherry or orange peel twist."
+	}],
+
+	"Daisy de Santiago": [{
+		"TITLE": "Daisy de Santiago",
+		"DETAILS": "Ingredient: 2 parts BACARDÍ Superior rum 3/4 part freshly squeezed lime juice 1/4 part sugar syrup 1 1/2 part Yellow Chartreuse Fresh berries and a mint sprig Method: Pour the BACARDÍ Superior rum, freshly squeezed lime juice and sugar syrup into a mixing glass then add some ice cubes and stir briefly. Next fill a wine goblet with crushed ice and pour the liquid from the mixing glass into the goblet. Garnish with mint and seasonal fresh fruit. Finish off by floating the Chartreuse on top."
+	}],
+
+	"Epicurean": [{
+		"TITLE": "Epicurean",
+		"DETAILS": "Ingredient: 1 1/2 parts BACARDÍ Superior rum 3/5 part Lillet Blanc 1/5 part Cointreau® 2/5 part freshly squeezed lemon juice 1 part peach purée 2/5 part sugar syrup Method: Pour all the ingredients into a cocktail shaker. Then add some ice cubes and give it a quick and vigorous shake. Fine strain the mixture into a chilled or frozen glass. Garnish it with the wedge of peach."
+	}],
+
+	"Flying Tigre": [{
+		"TITLE": "Flying Tigre",
+		"DETAILS": "Ingredient: 1 1/2 parts BACARDÍ Superior Rum 4/5 part BOMBAY SAPPHIRE® gin 1/5 part sugar syrup 1/5 part pomegranate grenadine syrup 2 dashes Angostura® Bitters Method: Pour all the ingredients into a cocktail shaker, add some ice cubes and shake briefly and vigorously. Fine strain the mixture into a chilled glass. Garnish with orange zest."
+	}],
+
+	"Hampshire House": [{
+		"TITLE": "Hampshire House",
+		"DETAILS": "Ingredient: 2 parts BACARDÍ Superior rum 1/2 part freshly squeezed lime juice 1/2 part maraschino cherry juice 1/2 part Grand Marnier® 1/2 part sugar syrup Method: Pour the ingredients into a cocktail shaker filled with ice cubes and crushed ice. Give it a good, hard shake until the cocktail shaker is cold. Fine strain the mixture into a chilled glass."
+	}],
+
+	"Golden Gloves": [{
+		"TITLE": "Golden Gloves",
+		"DETAILS": "Ingredient: 2 parts BACARDÍ Superior rum 2/5 part Cointreau® 2 tsp of fine white sugar (caster sugar) 1 part freshly squeezed lemon juice Method: Pour all the ingredients into a blender, together with a cup of crushed ice. Then blend the whole mix until it’s smooth. If you don’t have a blender, you can shake the mixture in a cocktail shaker and then fine strain it."
+	}],
+
+	"Hemingway Special": [{
+		"TITLE": "Hemingway Special",
+		"DETAILS": "Ingredient: 2 parts BACARDÍ Superior rum 1/3 part maraschino liqueur 1/4 part freshly squeezed lime juice 1/2 part freshly squeezed white grapefruit juice Maraschino cherry Method: Pour the ingredients into a cocktail shaker filled with ice cubes and crushed ice. Give it a good, hard shake until the cocktail shaker is cold. Fine strain the mixture into a chilled glass."
+	}],
+
+	"Mojito": [{
+		"TITLE": "Mojito",
+		"DETAILS": "Ingredients: 2 oz. Havana Club 3 Year Old Rum 1 oz. Simple Syrup ¾ oz. Lime Juice (half a lime) 2 Mint Sprigs 4 oz. of Sparkling Water Preparation: In a tall glass, add 2 teaspoons of sugar, the juice of half a lime, 2 mint sprigs and 4 oz. of sparkling water. Muddle gently. Add 2 oz. of Havana Club 3 Year Old Rum and the ice cubes. Stir well."
+	}],
+
+	"Caipirinha": [{
+		"TITLE": "Caipirinha",
+		"DETAILS": "Ingredients: 2 oz. Havana Club 3 Year Old Rum 1 quarter lime 2 tsps. of Fine Sugar Preparation: Place the lime wedges and sugar into an old-fashioned glass. Muddle well. Fill the glass with ice cubes and pour in Havana Club 3 Year Old Rum. Stir well."
+	}],
+
+	"Rum Old Fashioned": [{
+		"TITLE": "Rum Old Fashioned",
+		"DETAILS": "Ingredients: 2 oz. of Havana Club 7 Year Old Rum 1 dash of Angostura Bitters 1 dash of Orange Bitters 1 tsp. of Honey Preparation: Stir ingredients well, over ice in a mixing glass, then strain into a chilled rocks glass."
+	}],
+
+	"Old Cuban": [{
+		"TITLE": "Old Cuban",
+		"DETAILS": "Ingredients: 1 ½ oz. of Havana Club 7 Year Old Rum ¾ oz. of Lime Juice 1 oz. Simple Syrup 2 dashes of Angostura Bitters 2 oz. Chilled Sparkling Wine 6 Mint Leave Preparation: Lightly muddle the mint in the base of a shaker. Add the rest of the ingredients, except for sparkling wine, shake with ice and strain into a chilled coupe glass. Top with sparkling wine"
+	}],
+
+	"Mai Tai": [{
+		"TITLE": "Mai Tai",
+		"DETAILS": "Ingredients: 1 ½ oz. Havana Club 3 Year Old Rum ½ oz. Cointreau 1 oz. Lime Juice ½ oz. Orgeat (Almond Syrup - like you find in a coffee shop) ¼ oz. Simple Syrupm½ oz. Havana Club 7 Year Old (float on top) Crushed Ice Preparation: Shake all ingredients except the Havana Club Rum 7 Year Old in a cocktail shaker with ice. Shake well for 10-15 seconds or until the outside of the shaker becomes frosted. Strain into a lowball glass and top up with the Havana Club 7 Year Old Rum."
+	}],
+
+	"Long Island Iced Tea": [{
+		"TITLE": "Long Island Iced Tea",
+		"DETAILS": "Ingredients: ½ oz. Havana Club 3 Year Old Rum ½ oz. Lemon Juice ½ oz. McGuinness Triple Sec ½ oz. Avión Tequila ½ oz. Polar Ice Vodka ½ oz. Beefeaters Gin A tsp. of Sugar Cola to top Preparation: Shake all ingredients except for the cola in a cocktail shaker with ice. Shake well for 10-15 seconds or until the outside of the shaker becomes frosted. Strain into highball glass and then top up with cola."
+	}],
+
+	"Toronto Daiquiri": [{
+		"TITLE": "Toronto Daiquiri",
+		"DETAILS": "Ingredients: 1 ½ oz. of Havana Club 3 Year Old Rum ½ oz. of Jacob’s Creek Moscat ½ oz. of lime juice ¼ oz. of maple syrup 15 blueberries Preparation: Pour all the ingredients into a blender. Add crushed ice. Blend for 30 seconds. Pour into a daiquiri glass and serve."
+	}],
+
+	"Lemon Drop": [{
+		"TITLE": "Lemon Drop",
+		"DETAILS": "Ingredients: 2 Parts Absolut Vodka 2 Parts Absolut Citron 3 Parts Lemon Juice 1 Part Simple Syrup 1 Part Triple Sec1 Peel Lemon How to mix: Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with lemon."
+	}],
+
+	"Cosmopolitan": [{
+		"TITLE": "Cosmopolitan",
+		"DETAILS": "Ingredients: 2 Parts Absolut Citron 1 Part Lime Juice 1 Part Orange Liqueur ½ Part Cranberry Juice Twist Orange Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with orange."
+	}],
+
+	"Moscow Mule": [{
+		"TITLE": "Moscow Mule",
+		"DETAILS": "Ingredients: 2 Parts Absolut Vodka 1 Part Lime Juice Ginger Beer 1 Wedge Lime Fill a chilled highball glass with ice cubes. Add Absolut Vodka and lime juice. Top up with ginger beer. Garnish with lime."
+	}],
+
+	"Bellini": [{
+		"TITLE": "Bellini",
+		"DETAILS": "Ingredients: 1 Part Absolut Vodka 1 Part Peach Puree Champagne How to create the Perfect Bellini. Start by adding Absolut Vodka and peach puree into a chilled champagne glass. Top up with champagne."
+	}],
+
+	"Espresso Martini": [{
+		"TITLE": "Espresso Martini",
+		"DETAILS": "Ingredients: 2 Parts Absolut Vodka 1 Part Kahlúa 1 Part Espresso Coffee (Cold) ½ Part Simple Syrup How to create a simple and delicious Espresso Martini. Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+	}],
+
+	"Sea Breeze": [{
+		"TITLE": "Sea Breeze",
+		"DETAILS": "Ingredients: 2 Parts Absolut Vodka 3 Parts Grapefruit Juice 1 Part Cranberry Juice 1 Wedge Lime How to mix Fill a chilled highball glass with ice cubes. Add all ingredients. Stir. Garnish with lime."
+	}],
+
+	"French 75": [{
+		"TITLE": "French 75",
+		"DETAILS": "Ingredients: 1 Part Gin ½ Part Lemon Juice ½ Part Simple Syrup Champagne 1 Twist Lemon How to mix Fill a shaker with ice cubes. Add gin, lemon juice and simple syrup. Shake and strain into a chilled champagne glass. Top up with champagne. Garnish with lemon."
+	}],
+
+	"Bloody Mary": [{
+		"TITLE": "Bloody Mary",
+		"DETAILS": "Ingredients: 2 Parts Absolut Vodka 3 Parts Tomato Juice ¼ Part Worcestershire Sauce ¼ Part Lemon Juice 2 Dashes Hot Sauce1 Teaspoon Horseradish 1 Pinch Ground black pepper 1 Pinch Salt 1 Stick Celery How to mix Stir all ingredients in a mixing glass. Pour into a chilled highball glass filled with ice cubes. Garnish with celery."
+	}],
+
+	"Tom Collins": [{
+		"TITLE": "Tom Collins",
+		"DETAILS": "Ingredients: 2 Parts Gin ¾ Part Lemon Juice ¾ Part Simple Syrup Soda Water 1 Wheel Lemon How to mix Stir lemon juice, gin and simple syrup in a highball glass. Fill with ice cubes. Top up with soda water. Garnish with lemon."
+	}],
+
+	"Black Russian": [{
+		"TITLE": "Black Russian",
+		"DETAILS": "Ingredients: 1 Part Absolut Vodka 1 Part Kahlúa 1 Whole Cherry Fill a chilled rocks glass with ice cubes. Add all ingredients. Garnish with a cherry."
+	}],
+
+	"Frozen Margarita": [{
+		"TITLE": "Frozen Margarita",
+		"DETAILS": "Ingredients: 2 Parts Tequila 3 Parts Lime Juice 1 Part Triple Sec 1 Slice Lime How to mix Fill a blender with crushed ice. Add all ingredients. Blend and pour into a chilled cocktail glass. Garnish with lime."
+	}],
+
+	"Mimosa": [{
+		"TITLE": "Mimosa",
+		"DETAILS": "Ingredients: 1 Part Absolut Vodka 2 Parts Orange Juice Champagne Add Absolut Vodka and orange juice into a chilled champagne glass. Top up with champagne."
+	}],
+
+	"Negroni": [{
+		"TITLE": "Negroni",
+		"DETAILS": "Ingredients: 1 Part Gin 1 Part Campari 1 Part Vermouth, Sweet 1 Wedge Orange How to mix Fill a chilled rocks glass with ice cubes. Add all ingredients. Stir. Garnish with orange."
+	}],
+
+	"White Russian": [{
+		"TITLE": "White Russian",
+		"DETAILS": "Ingredients: 1 Part Absolut Vodka 4 Parts Milk 1 Part Kahlúa Fill a chilled rocks glass with ice cubes. Add all ingredients. Stir."
+	}],
+
+	"Autumn Collins": [{
+		"TITLE": "Autumn Collins",
+		"DETAILS": "50ml / 1.5 oz Belvedere Bloody Mary 60 ml/ 2 oz Unfiltered Apple Juice Dash of Fresh Lemon Juice Combine all ingredients and shake with ice. Strain into a highball glass over fresh cubed ice. Garnish with apple slices."
+	}],
+
+	"Be Inspired": [{
+		"TITLE": "Be Inspired",
+		"DETAILS": "50ml / 1.5 oz (Belvedere)RED 60ml / 2 oz fresh pomegranate juice 100ml / 3.5 oz San Pelligrino Aranciata Build in a highball glass over cubed ice. Garnish with blood orange or pink grapefruit wedge."
+	}],
+
+	"Cherry Spiritz": [{
+		"TITLE": "Cherry Spiritz",
+		"DETAILS": "1.5 oz / 45 ml Belvedere Dash maraschino liqueur 3 lemon slices 1 maraschino cherry Combine all ingredients in a Belvedere Spritz glass, filled with ice, top with equal parts of sparkling water and tonic water."
+	}],
+
+	"Polish Mule": [{
+		"TITLE": "Polish Mule",
+		"DETAILS": "50ml / 1.5 oz Belvedere Intense 1/2 Fresh Lime Dash Elderflower Syrup 2 Dashes Angostura Bitters Fever-Tree Ginger Beer Shake all ingredients except for ginger beer. Fine strain over cubed ice into a highball glass. Top with Fever Tree and garnish with a wedge of lime."
+	}],
+
+	"Bottoms UP": [{
+		"TITLE": "Bottoms UP",
+		"DETAILS": "30ml / 1 oz Belvedere Vodka 30ml / 1 oz peach puree Top Veuve Clicquot Yellow Label Combine Belvedere and peach puree in a tin and shake with ice. Fine strain into a chilled flute and top with Veuve Clicquot."
+	}],
+
+	"The Big Easy": [{
+		"TITLE": "The Big Easy",
+		"DETAILS": "50ml / 1.5 oz Belvedere Citrus 15ml / 1/2 oz Ginger Liqueur 20ml / 3/4 oz Fresh Lemon Juice Top with Cloudy Apple Cider Shake first three ingredients and strain over fresh ice into a highball glass. Top with cloudy apple cider. Garnish with a wedge of lemon."
+	}],
+
+	"WEDNESDAY": [{
+		"TITLE": "SCRUM MASTER",
+		"SPEAKER": "DAVIN MICKELSON",
+		"TIME": "1:00 PM",
+		"ROOM": "MATISSE",
+		"DETAILS": "LEARN THE ROLES AND RESPONSIBILITIES OF A SCRUM MASTER"
+	}, {
+		"TITLE": "DESIGN PATTERNS",
+		"SPEAKER": "JIM WHITE",
+		"TIME": "1:00 PM",
+		"ROOM": "ROTHKO",
+		"DETAILS": "APPLY BEST PRACTICES AND SOUND ARCHITECTURES TO SOFTWARE DESIGN."
+	}]
+}
